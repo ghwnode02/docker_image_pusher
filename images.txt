@@ -1,3 +1,1 @@
-alpine
-nginx:stable-perl
-bosybox
+nginx:latest
